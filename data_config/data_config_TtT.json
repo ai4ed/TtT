@@ -1,0 +1,32 @@
+[
+    {
+        "path": "your/path/to/asr_tts.json",
+        "sample_ratio": 1,
+        "data_type": "IT"
+    },
+    {
+        "path": "your/path/to/audio_chat.json",
+        "sample_ratio": 1,
+        "data_type": "IT"
+    },
+    {
+        "path": "your/path/to/sec_aac_asc_task.json",
+        "sample_ratio": 1,
+        "data_type": "IT"
+    },
+    {
+        "path": "your/path/to/text_chat.json",
+        "sample_ratio": 1,
+        "data_type": "IT"
+    },
+    {
+        "path": "your/path/to/interleaved_data_zh.json",
+        "sample_ratio": 1,
+        "data_type": "PT"
+    },
+    {
+        "path": "your/path/to/interleaved_data_en.json",
+        "sample_ratio": 1,
+        "data_type": "PT"
+    }
+]
